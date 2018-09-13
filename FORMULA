@@ -1,0 +1,7 @@
+name: zstd
+os: Ubuntu
+os_family: Debian
+version: 201809
+release: 1
+summary: Formula for installing zstd
+description: Formula for installing zstd
